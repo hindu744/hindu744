@@ -22,13 +22,12 @@
  
 <img align="left" width=40px; src="https://github.com/tomer00/tomer00/assets/68748487/c1e8326f-89cd-481e-8542-4ebcf9b71d26" alt="hii"/>
 <h3 align="left">Connect with me:</h3>
-
 <div align="left">
-  
-  [![TShare](https://github.com/hindu744/hindu744/blob/main/iconLinkedIn.png?raw=true)](https://linkedin.com/in/tomer00)
-  [![Anganwadi](/iconWhatsapp.png)](www.youtube.com/@codewithtomer)
+<a>     ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎    </a>
+<a href="https://linkedin.com/in/tomer00"><img src="https://testing2467.000webhostapp.com/Images/iconLinkedIn.png" alt="tomer00" /></a>
+<a href="https://www.youtube.com/@codewithtomer" target="blank"><img src="https://testing2467.000webhostapp.com/Images/iconYoutube.png" alt="codewithtomer"/></a>
+<a href="https://api.whatsapp.com/send/?phone=919997628974&text=Hii+Himanshu&type=phone_number" target="blank"><img src="https://testing2467.000webhostapp.com/Images/iconWhatsapp.png" alt="codewithtomer" /></a>
 </div>
-
 
 <p>     ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎    </p>
 <img align="left" width=50px; src="https://github.com/tomer00/tomer00/assets/68748487/7d141320-94c9-4212-916a-3a574435637f" alt="cat"/>
@@ -73,9 +72,8 @@
 <h2>‎ ‎‎‎</h2>
 
 <div align="center">
-  
-  [![TShare](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=tomer00&repo=TShare&theme=blue-green)](https://github.com/tomer00/TShare)
-  [![Anganwadi](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=tomer00&repo=Anganwadi-Helper&theme=blue-green)](https://github.com/tomer00/Anganwadi-Helper)
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=tomer00&repo=TShare&theme=blue-green">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=tomer00&repo=Anganwadi-Helper&theme=blue-green">
 </div>
 <br/>
 <p align="center">
