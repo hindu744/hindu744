@@ -23,10 +23,10 @@
 <img align="left" width=40px; src="https://github.com/tomer00/tomer00/assets/68748487/c1e8326f-89cd-481e-8542-4ebcf9b71d26" alt="hii"/>
 <h3 align="left">Connect with me:</h3>
 
-<div align="center">
+<div align="left">
   
-  [![TShare](https://github.com/tomer00/tomer00/assets/68748487/6f902988-63e3-452f-b842-9e020e499555)](https://linkedin.com/in/tomer00)
-  [![Anganwadi](https://github.com/tomer00/tomer00/assets/68748487/46203e5d-9513-4dec-aa11-33ffe153d776)](www.youtube.com/@codewithtomer)
+  [![TShare](https://github.com/hindu744/hindu744/blob/main/iconLinkedIn.png?raw=true)](https://linkedin.com/in/tomer00)
+  [![Anganwadi](/iconWhatsapp.png)](www.youtube.com/@codewithtomer)
 </div>
 
 
