@@ -10,22 +10,24 @@
  <img align="right" width=360px; src="https://github.com/tomer00/tomer00/assets/68748487/ea2dcf3e-9689-41f5-8609-99829936d6a2" alt="mainbg"/>
 
   
-- 🔭 I’m currently working on **Qrator**
+- 🔭 I’m currently working on **Chit-Chat**
 
-- 🌱 I’m currently learning **Node and Express**
+- 🌱 I’m currently learning **Spring and Jetpack Compose**
 
 - 💬 Ask me about **Android Java Kotlin**
 
 - 📫 How to reach me **himanshutomer00@gmail.com**
+
+- Liked my profile? here is my <a href="https://github.com/hindu744/qrator744/blob/main/AndroidResume">**Resume**</a>
 
  
 <img align="left" height=40px; src="https://github.com/tomer00/tomer00/assets/68748487/c1e8326f-89cd-481e-8542-4ebcf9b71d26" alt="hii"/>
 <h3 align="left">Connect with me:</h3>
 <div align="left">
 <a>     ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎    </a>
-<a href="https://linkedin.com/in/tomer00"><img src="https://testing2467.000webhostapp.com/Images/iconLinkedIn.png" alt="LinkedIn" width="46"/></a>
-<a href="https://www.youtube.com/@codewithtomer" target="blank"><img src="https://testing2467.000webhostapp.com/Images/iconYoutube.png" alt="YouTube" width="46" /></a>
-<a href="https://api.whatsapp.com/send/?phone=919997628974&text=Hii+Himanshu&type=phone_number" target="blank"><img src="https://testing2467.000webhostapp.com/Images/iconWhatsapp.png" alt="Whatsapp" width="46" /></a>
+<a href="https://linkedin.com/in/tomer00"><img src="https://github.com/hindu744/qrator744/blob/main/iconLinkedIn.webp" alt="LinkedIn" width="46"/></a>
+<a href="https://www.youtube.com/@codewithtomer" target="blank"><img src="https://github.com/hindu744/qrator744/blob/main/iconYoutube.webp" alt="YouTube" width="46" /></a>
+<a href="https://api.whatsapp.com/send/?phone=919997628974&text=Hii+Himanshu&type=phone_number" target="blank"><img src="https://github.com/hindu744/qrator744/blob/main/iconWhatsapp.webp" alt="Whatsapp" width="46" /></a>
 </div>
 
 <p>     ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎    </p>
