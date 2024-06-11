@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <img height=100px; src="https://github.com/tomer00/tomer00/assets/68748487/51b23dac-2873-45ec-bb47-6190f09e2282">
@@ -6,7 +5,7 @@
   <img height=120px; src="https://readme-typing-svg.demolab.com?font=Chelsea+Market+&weight=900&pause=1000&color=15F762&width=220&lines=Himanshu+Tomer;Andriod+Developer" alt="Himanshu Tomer" />
 </div>
 <h2> </h2>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">Fueled by Passion: An Android Developer from Uttar Pradesh India 🇮🇳</h3>
  <img src="https://github.com/tomer00/tomer00/assets/68748487/9a4ac5fa-efb6-4e5a-9c0d-7be90f6b9d41" alt="space" width="100%" height="40"/>
  <img align="right" width=360px; src="https://github.com/tomer00/tomer00/assets/68748487/ea2dcf3e-9689-41f5-8609-99829936d6a2" alt="mainbg"/>
 
@@ -20,17 +19,17 @@
 - 📫 How to reach me **himanshutomer00@gmail.com**
 
  
-<img align="left" width=40px; src="https://github.com/tomer00/tomer00/assets/68748487/c1e8326f-89cd-481e-8542-4ebcf9b71d26" alt="hii"/>
+<img align="left" height=40px; src="https://github.com/tomer00/tomer00/assets/68748487/c1e8326f-89cd-481e-8542-4ebcf9b71d26" alt="hii"/>
 <h3 align="left">Connect with me:</h3>
 <div align="left">
 <a>     ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎    </a>
-<a href="https://linkedin.com/in/tomer00"><img src="https://testing2467.000webhostapp.com/Images/iconLinkedIn.png" alt="tomer00" /></a>
-<a href="https://www.youtube.com/@codewithtomer" target="blank"><img src="https://testing2467.000webhostapp.com/Images/iconYoutube.png" alt="codewithtomer"/></a>
-<a href="https://api.whatsapp.com/send/?phone=919997628974&text=Hii+Himanshu&type=phone_number" target="blank"><img src="https://testing2467.000webhostapp.com/Images/iconWhatsapp.png" alt="codewithtomer" /></a>
+<a href="https://linkedin.com/in/tomer00"><img src="https://testing2467.000webhostapp.com/Images/iconLinkedIn.png" alt="LinkedIn" width="46"/></a>
+<a href="https://www.youtube.com/@codewithtomer" target="blank"><img src="https://testing2467.000webhostapp.com/Images/iconYoutube.png" alt="YouTube" width="46" /></a>
+<a href="https://api.whatsapp.com/send/?phone=919997628974&text=Hii+Himanshu&type=phone_number" target="blank"><img src="https://testing2467.000webhostapp.com/Images/iconWhatsapp.png" alt="Whatsapp" width="46" /></a>
 </div>
 
 <p>     ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎    </p>
-<img align="left" width=50px; src="https://github.com/tomer00/tomer00/assets/68748487/7d141320-94c9-4212-916a-3a574435637f" alt="cat"/>
+<img align="left" height=34px; src="https://github.com/tomer00/tomer00/assets/68748487/7d141320-94c9-4212-916a-3a574435637f" alt="cat"/>
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
   <img width="46" />
@@ -72,10 +71,13 @@
 <h2>‎ ‎‎‎</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=tomer00&repo=TShare&theme=blue-green">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=tomer00&repo=Anganwadi-Helper&theme=blue-green">
+  
+  [![TShare](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=tomer00&repo=TShare&theme=blue-green)](https://github.com/tomer00/TShare)
+  [![Anganwadi](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=tomer00&repo=Anganwadi-Helper&theme=blue-green)](https://github.com/tomer00/Anganwadi-Helper)
 </div>
-<br/>
+
+
+
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomer00&theme=blue-green&hide_border=false">
   <br/>
@@ -83,9 +85,8 @@
 
 <img src="https://github.com/tomer00/tomer00/assets/68748487/9a4ac5fa-efb6-4e5a-9c0d-7be90f6b9d41" alt="space" width="100%" height="48px"/>
 
-<img align="left" width=56px; src="https://github.com/tomer00/tomer00/assets/68748487/1a2b26bd-e45e-4c0c-93b8-cb0d0eebfbc3" alt="quote"/>
+<img align="left" height=80px; src="https://github.com/tomer00/tomer00/assets/68748487/1a2b26bd-e45e-4c0c-93b8-cb0d0eebfbc3" alt="quote"/>
 <h3 align="left">Random Dev Quote</h3>
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-
