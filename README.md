@@ -12,7 +12,7 @@
   
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.gif" alt="🚧" width="26" height="26"> I’m currently working on **Flick-Flow a video streaming service**
 
-- 🌱 I’m currently learning **Spring and Jetpack Compose**
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="26" height="26"> I’m currently learning **Spring and Jetpack Compose**
 
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="26" height="26"> Ask me about **Android Java Kotlin**
 
