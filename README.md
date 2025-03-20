@@ -10,7 +10,10 @@
  <img align="right" width=360px; src="https://github.com/tomer00/tomer00/assets/68748487/ea2dcf3e-9689-41f5-8609-99829936d6a2" alt="mainbg"/>
 
   
-- 🔭 I’m currently working on **Chit-Chat**
+- <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.gif" alt="🚧" width="32" height="32">
+</picture> I’m currently working on **Chit-Chat**
 
 - 🌱 I’m currently learning **Spring and Jetpack Compose**
 
